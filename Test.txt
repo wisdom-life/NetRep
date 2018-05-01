@@ -1,1 +1,2 @@
-Hello, GIT!
+Hello, GIT! ADD two
+New ADD
